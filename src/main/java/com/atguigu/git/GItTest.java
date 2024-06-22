@@ -15,5 +15,9 @@ public class GItTest {
         System.out.println("pull test!");
         System.out.println("gitee test!");
         System.out.println("gitee test2!");
+
+//         下面是我添加的内容
+        System.out.println("gitee new");
+        System.out.println("gitee new2");
     }
 }
