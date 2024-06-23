@@ -39,5 +39,8 @@ public class GItTest {
 
         //push到远程库
         System.out.println("push");
+
+        //pull远程库
+        System.out.println("pull");
     }
 }
