@@ -20,5 +20,10 @@ public class GItTest {
         System.out.println("gitee new");
         System.out.println("gitee new2");
         System.out.println("gitee new3");
+
+        //下面是hot-fix添加的内容
+        System.out.println("hot-fix");
+        System.out.println("hot-fix2");
+        System.out.println("hot-fix3");
     }
 }
