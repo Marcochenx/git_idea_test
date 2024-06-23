@@ -29,5 +29,12 @@ public class GItTest {
         //分支冲突
         System.out.println("hello");
         System.out.println("master");
+
+        //分支冲突
+        System.out.println("hello");
+        System.out.println("hot-fix");
+
+        //分支冲突自己添加
+        System.out.println("myself");
     }
 }
