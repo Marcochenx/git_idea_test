@@ -36,5 +36,8 @@ public class GItTest {
 
         //分支冲突自己添加
         System.out.println("myself");
+
+        //push到远程库
+        System.out.println("push");
     }
 }
