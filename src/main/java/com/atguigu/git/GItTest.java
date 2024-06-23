@@ -25,5 +25,9 @@ public class GItTest {
         System.out.println("hot-fix");
         System.out.println("hot-fix2");
         System.out.println("hot-fix3");
+
+        //分支冲突
+        System.out.println("hello");
+        System.out.println("hot-fix");
     }
 }
